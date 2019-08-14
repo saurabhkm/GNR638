@@ -185,7 +185,7 @@
             {%- if config.copyright %}
                 <p>{{ config.copyright }}</p>
             {%- endif %}
-            <p><a href="https://saurabhkm.github.io/">Saurabh Kumar</a></p>
+	    <!-- <p><a href="https://saurabhkm.github.io/">Saurabh Kumar</a></p> --!>
           {%- endblock %}
         </footer>
 
