@@ -1,0 +1,24 @@
+# GNR638: Machine Learning for Remote Sensing: II
+
+Instructor: Prof. Biplab Banerjee
+Type: Graduate Elective Course
+Prerequisites: A First course in Machine Learning
+When: Tue./Fri., 19:00-20:30 in LH 102
+Assistants: Saurabh Kumar
+
+
+For full documentation visit [mkdocs.org](https://mkdocs.org).
+
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs help` - Print this help message.
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
